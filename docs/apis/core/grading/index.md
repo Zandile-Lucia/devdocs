@@ -1,4 +1,4 @@
----
+devdocs\docs\apis\core\grading---
 title: Advanced grading API
 tags:
   - Plugins
